@@ -1,4 +1,4 @@
-# 👋 Igor Silva
+# Igor Silva
 **`Desenvolvedor Full Stack`**
 
 Estudante de Ciência da Computação na UNIPÊ e tecnólogo em Análise e Desenvolvimento de Sistemas. Atuo como desenvolvedor Full Stack com foco em **Java + Spring Boot** no backend e **React** no frontend. Tenho experiência com APIs REST, autenticação JWT, Redis e integração com bancos relacionais e não relacionais. Atualmente desenvolvendo na **Hack Brain** (startup) e estagiário na **Fábrica de Software UBTech/UNIPÊ**.
