@@ -37,18 +37,3 @@ Estudante de Ciência da Computação na UNIPÊ e tecnólogo em Análise e Desen
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=igorsilvabrito&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&custom_title=Estatísticas"
-/>
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvabrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
