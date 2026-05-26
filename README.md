@@ -20,14 +20,6 @@ Estudante de Ciência da Computação na UNIPÊ e tecnólogo em Análise e Desen
 - Estagiário na **Fábrica de Software UBTech/UNIPÊ** — plataforma educacional com IA (*Prepara+*)
 - Cursando **Ciência da Computação** na UNIPÊ
 
-### 📚 Aprendendo
-
-- Microsserviços com **RabbitMQ**
-- Cloud com **AWS EC2**
-- **Angular**
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
